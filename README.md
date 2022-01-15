@@ -11,5 +11,3 @@ my links
 ```{sql, connection = db}
 DROP TABLE IF EXISTS Order_Detail
 ```
-
-About DDL
