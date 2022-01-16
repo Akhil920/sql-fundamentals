@@ -64,3 +64,13 @@ git commit -m "<Your message here>"
 ```
 git push
 ```
+
+
+    *   Other useful commands
+        1. cd <foldername> - Opens up the given folder
+        2. cd .. - To return to 1 folder back
+        3. cd ..\.. - To return to 2 folders back
+        4. mv - To Move the file from one folder to another
+        5. mv - Also to rename the file
+        6. cp - Copies the files and past it in another folder
+        
