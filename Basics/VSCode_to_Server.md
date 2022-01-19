@@ -72,5 +72,6 @@ git push
         3. cd ..\.. - To return to 2 folders back
         4. mv - To Move the file from one folder to another
         5. mv - Also to rename the file
-        6. cp - Copies the files and past it in another folder
+        6. cp - Copies the files and paste it in another folder (syntax: cp <source> <target>)
+        7. cat - Shows the contents of the specified file (syntax: cat foldername\filename)
         
