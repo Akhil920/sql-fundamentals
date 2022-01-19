@@ -74,4 +74,5 @@ git push
         5. mv - Also to rename the file
         6. cp - Copies the files and paste it in another folder (syntax: cp <source> <target>)
         7. cat - Shows the contents of the specified file (syntax: cat foldername\filename)
+        8. cat > - Creates a new file under the given folder (syntax: cat >foldername\filename)
         
