@@ -54,7 +54,7 @@ git add .
 ```
 16. The above command is only recommendable when you are sure to add all the changes that you made to the commit. However, if you want to add only the changes you made to few files/directories, you can speficy each change by using the following command
 ```
-git add file_1 file_2 folder\file_3
+git add foldername\file_1 file_2 folder\file_3
 ```
 17. Before pushing the added changes to the git server, you are required to commit the changes by using the below command and can also mention the message for future reference
 ```
