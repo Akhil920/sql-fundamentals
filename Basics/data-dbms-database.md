@@ -3,6 +3,9 @@
 * **Information**: A processed data
 * **Data**: Raw facts and figures that has no meaning
 
+
+***
+
 1. Types of Operators: 
 
 a. Arithmetic Operators: These are the operators that we use in the Select Clause with the attributes. Ex. +, -, *, /
@@ -16,3 +19,9 @@ c. Relational Operators: The operators that compares the conditions and to be us
 1. Relational
 2. Logical 
 3. Arithmetic 
+
+
+***
+Fragments of Database: 
+ > **Data Part**: This is the part of database where the data values are stored
+ > **Meta Data**: This part of the database maintains the data about the data. Meta Data aka Data Dictionary or Data Catalog.  
