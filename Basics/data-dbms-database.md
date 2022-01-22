@@ -16,9 +16,18 @@ c. Relational Operators: The operators that compares the conditions and to be us
 
 
 1.a: Order of Execution: 
-1. Relational
-2. Logical 
-3. Arithmetic 
+    1. Relational
+    2. Logical 
+    3. Arithmetic 
+***
+
+2. Types of Functions in SQL: 
+
+a. Numeric/Arithmetic Functions
+b. Aggregate Functions
+c. String Functions
+d. Date Functions
+e. Character Functions  
 
 
 ***
