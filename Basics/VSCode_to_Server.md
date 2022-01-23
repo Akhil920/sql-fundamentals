@@ -16,7 +16,9 @@ cd <foldername/structure>
 Code <FolderName/Structure>
 ```
 6. The above step will open your folder in VSCode application
-7. Once you get into VSCode application, you are required to check if the data present in the Git Server matches with you local reporitory (in your machine) by using the below `status` command
+7. Once you get into VSCode application, you are required to: 
+   7.1: Pull the server data into your local machine using 'Pull' command and 
+   7.2: check if the data present in the Git Server matches with you local reporitory (in your machine) by using the below `status` command
 ```
 git status
 ```
