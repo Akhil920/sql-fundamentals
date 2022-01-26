@@ -3,6 +3,7 @@
 * **Information**: A processed data
 * **Data**: Raw facts and figures that has no meaning
 * **Relational Database**: This is a type of data storage method wherein the information will be stored in a series of tables that are connected through data relationships.
+* **Relationships in Sql**: With the help of common fields/attributes of 2 tables, we establish an association between two or more tables. Often, the fields involves Primary and Foreign Keys.
 
 
 ***
