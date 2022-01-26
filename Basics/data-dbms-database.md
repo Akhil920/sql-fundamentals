@@ -1,7 +1,8 @@
-* **Sql**: Its a query language that helps user to interact with the underlying database.
+* **Sql**: Its a query language that helps user to interact with the underlying relational database.
 * **Database**: Its a collection of inter-related information
 * **Information**: A processed data
 * **Data**: Raw facts and figures that has no meaning
+* **Relational Database**: This is a type of data storage method wherein the information will be stored in a series of tables that are connected through data relationships.
 
 
 ***
