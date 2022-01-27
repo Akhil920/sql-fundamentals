@@ -23,16 +23,23 @@ c. Relational Operators: The operators that compares the conditions and to be us
     3. Arithmetic 
 ***
 
-2. Types of Functions in SQL: Broadly speaking, there are 2 types of Functions. Single Row Functions and Multi-row functions 
+2. **Types of Functions in SQL**: Broadly speaking, there are 2 types of Functions. Single Row Functions and Multi-row functions 
 
-a: Types of Single-row Functions in SQL: 
+a: Types of Single-row Functions in SQL: These functions are further classified into the below: 
 
 a. Numeric/Arithmetic Functions
+
 b. Aggregate Functions
+
 c. String Functions
+
 d. Date Functions
+
 e. Character Functions  
 
+
+
+b: Multi-row Functions: Decode & Joins are popular Multi-row functions.
 
 ***
 Fragments of Database: 
