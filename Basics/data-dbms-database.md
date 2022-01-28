@@ -42,13 +42,16 @@ e. Character Functions
 b: Multi-row Functions: Decode & Joins are popular Multi-row functions.
 
 ***
+
+ Fragments of Secondary Storage: 
+ > **File Storage**: In this part of secondary storage we can store any files that may or may not necessarily have a certain meaning and the user can access this storage without an intermediary. The search happens in this kind of storage is called Linear or Sequential.
+
+ > **Database Storage**: Unlike the File Storage, the data that the user intends to store must have some meaning and all the data elements should be related to one another. The search happens in this storage is Binary Search.
+
+***
 Fragments of Database: 
  > **Data Part**: This is the part of database where the data values are stored
  
  > **Meta Data**: This part of the database maintains the data about the data. Meta Data aka Data Dictionary or Data Catalog.  
 
  ***
- Fragments of Secondary Storage: 
- > **File Storage**: In this part of secondary storage we can store any files that may or may not necessarily have a certain meaning and the user can access this storage without an intermediary. The search happens in this kind of storage is called Linear or Sequential.
-
- > **Database Storage**: Unlike the File Storage, the data that the user intends to store must have some meaning and all the data elements should be related to one another. The search happens in this storage is Binary Search.
