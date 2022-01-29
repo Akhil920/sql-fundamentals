@@ -18,13 +18,17 @@ Definitions in SQL:
 
 3. **The User View/Logical Layer**: The layer that directly interacts with the user and will remain close to the user.
 
+***
+
+**Users of Database**
+1. End User
+2. Database Designers
+3. Database Administrators
+4. Application Developers
 
 
 
 ***
-
-
-
 1. Types of Operators: 
 
 a. Arithmetic Operators: These are the operators that we use in the Select Clause with the attributes. Ex. +, -, *, /
