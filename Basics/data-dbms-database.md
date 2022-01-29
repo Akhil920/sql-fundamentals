@@ -1,3 +1,5 @@
+Definitions in SQL: 
+
 * **Sql**: Its a query language that helps user to interact with the underlying relational database.
 * **Database**: Its a collection of inter-related information
 * **Information**: A processed data
@@ -7,6 +9,21 @@
 
 
 ***
+
+**Architecture of DBMS**: DBMS has a layered architecture and there are 3 layers/levels as listed below: 
+
+1. **The Physical Layer**: This is the level that is close to the database.
+
+2. **The Intermediate Layer**: This layer exists in between Physical layer and Logical layer.
+
+3. **The User View/Logical Layer**: The layer that directly interacts with the user and will remain close to the user.
+
+
+
+
+***
+
+
 
 1. Types of Operators: 
 
