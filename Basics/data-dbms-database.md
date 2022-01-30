@@ -21,10 +21,10 @@ Definitions in SQL:
 ***
 
 **Users of Database**
-1. End User
-2. Database Designers
-3. Database Administrators
-4. Application Developers
+1. **End User**: The ultimate users of database who can view and access the data
+2. **Database Designers**: DBD have privilege of defining and creating the database and the users who lets DBDs or authorizes DBDs to define and create the database are called DBAs.
+3. **Database Administrators**: DBAs are sole custodian of entire database.
+4. **Application Developers**: Developers are the users who build the front-end applications.
 
 
 
