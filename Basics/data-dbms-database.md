@@ -10,6 +10,12 @@ Definitions in SQL:
 
 ***
 
+Logical Structure of Database: The data in database part of secondary memory will get structured into Blocks, Extents, Segments and Table Spaces.
+
+> Blocks: This is the 
+
+***
+
 **Architecture of DBMS**: DBMS has a layered architecture and there are 3 layers/levels as listed below: 
 
 1. **The Physical Layer**: This is the level that is close to the database.
@@ -31,14 +37,14 @@ Definitions in SQL:
 ***
 1. Types of Operators: 
 
-a. Arithmetic Operators: These are the operators that we use in the Select Clause with the attributes. Ex. +, -, *, /
+a. **Arithmetic Operators**: These are the operators that we use in the Select Clause with the attributes. Ex. +, -, *, /
 
-b. Logical Operators: We use Logical operators in the Where Clause to specify more than 1 condition. Ex. AND, OR, NOT
+b. **Logical Operators**: We use Logical operators in the Where Clause to specify more than 1 condition. Ex. AND, OR, NOT
 
-c. Relational Operators: The operators that compares the conditions and to be used in the Where Clause to specify the conditions. Ex. =,>,<>
+c. **Relational Operators**: The operators that compares the conditions and to be used in the Where Clause to specify the conditions. Ex. =,>,<>
 
 
-1.a: Order of Execution: 
+1.a: **Order of Execution**: 
     1. Relational
     2. Logical 
     3. Arithmetic 
