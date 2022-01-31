@@ -10,9 +10,15 @@ Definitions in SQL:
 
 ***
 
-Logical Structure of Database: The data in database part of secondary memory will get structured into Blocks, Extents, Segments and Table Spaces.
+**Logical Structure of Database**: The data in database part of secondary memory will get structured into Blocks, Extents, Segments and Table Spaces.
 
-> Blocks: This is the 
+> Blocks: This is the smallest fragment of the memory where the data can be stored.
+
+> Extents: The collection of blocks are called Extents
+
+> Segments: The collection of extents.
+
+> Table Spaces: The collection of Segments.
 
 ***
 
