@@ -59,13 +59,44 @@ c. **Relational Operators**: The operators that compares the conditions and to b
 
 a: Types of Single-row Functions in SQL: These functions are further classified into the below: 
 
-a. Numeric/Arithmetic Functions
+a. Numeric/Arithmetic Functions: Accepts numeric input and returns numeric values. The following are the numeric functions: 
+
+    1. Round
+    2. Trunc
+    3. Mod
+    4. ABS
+    5. Floor
+    6. Ceiling
 
 b. Aggregate Functions
 
+    1. AVG
+    2. Count
+    3. Min
+    4. Max
+    5. Sum
+
 c. String Functions
 
+    1. Character Converstion Functions: 
+        A. Upper
+        B. Lower
+        C. Initcap
+    2. Character Manipulation Functions: 
+        A. Substr
+        B. Instr
+        C. Lpad
+        D. Length
+        E. Rpad
+        F. Trim
+
 d. Date Functions
+
+    1. Datediff
+    2. Current_Timestamp
+    3. Months_between
+    4. Next_day
+    5. Last_day
 
 e. Character Functions  
 
