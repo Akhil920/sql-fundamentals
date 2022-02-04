@@ -61,12 +61,24 @@ a: Types of Single-row Functions in SQL: These functions are further classified 
 
 a. Numeric/Arithmetic Functions: Accepts numeric input and returns numeric values. The following are the numeric functions: 
 
-    1. Round
-    2. Trunc
-    3. Mod
-    4. ABS
-    5. Floor
-    6. Ceiling
+    1. Round: Rounds the value to specified decimal
+        Syntax: Select Round(433.337,2)
+        Result: 433.34
+    2. Trunc: Truncates values to the specified decimal with no regard to rounding off
+        Syntax: Trunc(433.337,2)
+        Result: 433.33
+    3. Mod: Retuens the reminder of division
+        Syntax: Mod(1600,300)
+        Result: 100
+    4. ABS: Returns the absolute/positive value of a specified number
+        Syntax: Select abs(-0.7)
+        Result: .7
+    5. Floor: Returns the largest integer value which is less than or equal to a number
+        Syntax: Select Floor(21.53)
+        Result: 21
+    6. Ceiling: Returns the smallest integer value which is greater than or equal to a number specified
+        Syntax: Select Ceiling(21.53)
+        Result: 22
 
 b. Aggregate Functions
 
