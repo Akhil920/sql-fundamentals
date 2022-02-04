@@ -82,7 +82,7 @@ a. Numeric/Arithmetic Functions: Accepts numeric input and returns numeric value
 
 b. Aggregate Functions
 
-    1. AVG
+    1. AVG 
     2. Count
     3. Min
     4. Max
