@@ -1,3 +1,10 @@
+**History of SQL**: 
+* In June 1970, Dr. E.F.Codd published the paper 'A Relational Model of Data for Large Shared Data Banks', which is now accepted as the definitive model for RDBMS and the language Structured English Query Language (SEQUEL) was developed by IBM Corporation Inc. to use Code's model.
+* SEQUEL later became SQL. In 1979, Oracle Corporation introduces the first commercial RDBMS and today SQL is accepted as the Standard RDBMS language.
+
+
+****
+
 Definitions in SQL: 
 
 * **Sql**: Its a query language that helps user to interact with the underlying relational database.
