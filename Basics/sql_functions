@@ -41,9 +41,12 @@ b. Aggregate Functions
 c. String Functions
 
     1. Character Converstion Functions: 
-        A. Upper
-        B. Lower
-        C. Initcap
+        A. Upper: Gives the text in upper Case  
+            Syntax: select UPPER ('EnterTextHere')
+        B. Lower: This converts a string to lower-Case  
+            Syntax: select LOWER ('EnterStringHere')
+        C. Initcap: This function converts the first letter of each word in a string to upper-case.
+            Syntax: Select INITCAP ('enter text here')
     2. Character Manipulation Functions: 
         A. Substr
         B. Instr
