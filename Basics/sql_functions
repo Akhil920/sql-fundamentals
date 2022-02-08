@@ -27,11 +27,16 @@ a. Numeric/Arithmetic Functions: Accepts numeric input and returns numeric value
 
 b. Aggregate Functions
 
-    1. AVG 
-    2. Count
-    3. Min
-    4. Max
-    5. Sum
+    1. AVG: Calculates the average of the set of values
+        Syntax: Select AVG (ColumnName);
+    2. Count: This function counts rows in a specified table or view
+        Syntax: Select SUM (columnname);
+    3. Min: This fetches the minumum value in a set of values
+        Syntax: Select MIN (columnname);
+    4. Max: To find the maximum value in a set of values
+        Syntax: Select MAX (columnname);
+    5. Sum: Calculates the sum of values
+        Syntax: Select Sum(columnname);
 
 c. String Functions
 
