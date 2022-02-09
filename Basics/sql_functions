@@ -6,36 +6,36 @@ a: **Types of Single-row Functions in SQL**: These functions are further classif
 
 a. Numeric/Arithmetic Functions: Accepts numeric input and returns numeric values. The following are the numeric functions: 
 
-    1. Round: Rounds the value to specified decimal
+    1. **Round**: Rounds the value to specified decimal
         Syntax: Select Round(433.337,2)
         Result: 433.34
-    2. Trunc: Truncates values to the specified decimal with no regard to rounding off
+    2. **Trunc**: Truncates values to the specified decimal with no regard to rounding off
         Syntax: Trunc(433.337,2)
         Result: 433.33
-    3. Mod: Retuens the reminder of division
+    3. **Mod**: Retuens the reminder of division
         Syntax: Mod(1600,300)
         Result: 100
-    4. ABS: Returns the absolute/positive value of a specified number
+    4. **ABS**: Returns the absolute/positive value of a specified number
         Syntax: Select abs(-0.7)
         Result: .7
-    5. Floor: Returns the largest integer value which is less than or equal to a number
+    5. **Floor**: Returns the largest integer value which is less than or equal to a number
         Syntax: Select Floor(21.53)
         Result: 21
-    6. Ceiling: Returns the smallest integer value which is greater than or equal to a number specified
+    6. **Ceiling**: Returns the smallest integer value which is greater than or equal to a number specified
         Syntax: Select Ceiling(21.53)
         Result: 22
 
 b. Aggregate Functions
 
-    1. AVG: Calculates the average of the set of values
+    1. **AVG**: Calculates the average of the set of values
         Syntax: Select AVG (ColumnName);
-    2. Count: This function counts rows in a specified table or view
+    2. **Count**: This function counts rows in a specified table or view
         Syntax: Select SUM (columnname);
-    3. Min: This fetches the minumum value in a set of values
+    3. **Min**: This fetches the minumum value in a set of values
         Syntax: Select MIN (columnname);
-    4. Max: To find the maximum value in a set of values
+    4. **Max**: To find the maximum value in a set of values
         Syntax: Select MAX (columnname);
-    5. Sum: Calculates the sum of values
+    5. **Sum**: Calculates the sum of values
         Syntax: Select Sum(columnname);
 
 c. String Functions
