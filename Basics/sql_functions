@@ -65,11 +65,13 @@ c. String Functions
 
 d. Date Functions
 
-    1. Datediff
-    2. Current_Timestamp
-    3. Months_between
-    4. Next_day
-    5. Last_day
+    1. Datediff: Returns the difference between 2 date values in any given intervals.
+        Syntax: DATEDIFF(interval, date1, date2)      # Intervals include Year, quarter, month, day, week etc
+    2. Current_Timestamp: Gives the current date and time
+    3. Next_day: This function returns the date of the first weekday specified by day name that is later than a date.
+        Syntax: Next_day(date, weekday)
+    4. Last_day: This extracts the last day of the month for the specified date.
+        Syntax: Last_day("date")
 
 e. Character Functions  
 
