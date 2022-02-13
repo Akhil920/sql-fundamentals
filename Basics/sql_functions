@@ -78,7 +78,8 @@ e. Conversion Functions:
         Syntax: To_Char(value,'format');
     2. To_date(): This Function is used to convert a string value into date format.
         Syntax: to_date('value','format');
-    3. To_number()
+    3. To_number(): This function will convert a string value into numeric
+        Syntax: To_number('value');
 
 
 
