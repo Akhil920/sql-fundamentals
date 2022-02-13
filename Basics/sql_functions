@@ -73,7 +73,12 @@ d. Date Functions
     4. Last_day: This extracts the last day of the month for the specified date.
         Syntax: Last_day("date")
 
-e. Character Functions  
+e. Conversion Functions: 
+    1. To_Char(): This function converts a string or value into characters or in a specified format
+        Syntax: To_Char(value,'format');
+    2. To_date(): This Function is used to convert a string value into date format.
+        Syntax: to_date('value','format');
+    3. To_number()
 
 
 
