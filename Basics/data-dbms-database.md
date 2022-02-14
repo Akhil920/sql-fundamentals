@@ -49,11 +49,11 @@ Definitions in SQL:
 ***
 1. Types of Operators: 
 
-a. **Arithmetic Operators**: These are the operators that we use in the Select Clause with the attributes. Ex. +, -, *, /
+a. **Arithmetic Operators**: The arithmetic operators can perform arithmetical operation on numeric operands that are involved. These are the operators that we use in the Select Clause with the attributes. Ex. +, -, *, /
 
-b. **Logical Operators**: We use Logical operators in the Where Clause to specify more than 1 condition. Ex. AND, OR, NOT
+b. **Logical Operators**: We use Logical operators in the Where Clause to specify more than 1 condition. In other words, we use logical operators to specify conditions in teh SQL statement. Ex. AND, OR, NOT
 
-c. **Relational Operators**: The operators that compares the conditions and to be used in the Where Clause to specify the conditions. Ex. =,>,<>
+c. **Relational Operators**: The operators that compares the conditions and to be used in the Where Clause to specify the conditions. This operator basically compares two expressions or values and return a boolean result. Ex. =,>,<>
 
 
 1.a: **Order of Execution**: 
@@ -76,65 +76,6 @@ Fragments of Database:
 
  ***
 
-2. **Types of Functions in SQL**: Broadly speaking, there are 2 types of Functions. Single Row Functions and Multi-row functions 
-
-a: Types of Single-row Functions in SQL: These functions are further classified into the below: 
-
-a. Numeric/Arithmetic Functions: Accepts numeric input and returns numeric values. The following are the numeric functions: 
-
-    1. Round: Rounds the value to specified decimal
-        Syntax: Select Round(433.337,2)
-        Result: 433.34
-    2. Trunc: Truncates values to the specified decimal with no regard to rounding off
-        Syntax: Trunc(433.337,2)
-        Result: 433.33
-    3. Mod: Retuens the reminder of division
-        Syntax: Mod(1600,300)
-        Result: 100
-    4. ABS: Returns the absolute/positive value of a specified number
-        Syntax: Select abs(-0.7)
-        Result: .7
-    5. Floor: Returns the largest integer value which is less than or equal to a number
-        Syntax: Select Floor(21.53)
-        Result: 21
-    6. Ceiling: Returns the smallest integer value which is greater than or equal to a number specified
-        Syntax: Select Ceiling(21.53)
-        Result: 22
-
-b. Aggregate Functions
-
-    1. AVG 
-    2. Count
-    3. Min
-    4. Max
-    5. Sum
-
-c. String Functions
-
-    1. Character Converstion Functions: 
-        A. Upper
-        B. Lower
-        C. Initcap
-    2. Character Manipulation Functions: 
-        A. Substr
-        B. Instr
-        C. Lpad
-        D. Length
-        E. Rpad
-        F. Trim
-
-d. Date Functions
-
-    1. Datediff
-    2. Current_Timestamp
-    3. Months_between
-    4. Next_day
-    5. Last_day
-
-e. Character Functions  
-
-
-
-b: Multi-row Functions: Decode & Joins are popular Multi-row functions.
+2. 
 
 ***
