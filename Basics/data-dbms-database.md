@@ -8,7 +8,7 @@
 Definitions in SQL: 
 
 * **Sql**: Its a query language that helps user to interact with the underlying relational database.
-* **Database**: Its a collection of inter-related information
+* **Database**: Its a collection of logically related information organized so that it can be  accessible, managed and updated easily. In general, Databases are accessed and controlled by a DBMS.
 * **Information**: A processed data
 * **Data**: Raw facts and figures that has no meaning
 * **Relational Database**: This is a type of data storage method wherein the information will be stored in a series of tables that are connected through data relationships.
@@ -41,7 +41,7 @@ Definitions in SQL:
 **Users of Database**
 1. **End User**: The ultimate users of database who can view and access the data
 2. **Database Designers**: DBD have privilege of defining and creating the database and the users who lets DBDs or authorizes DBDs to define and create the database are called DBAs.
-3. **Database Administrators**: DBAs are sole custodian of entire database.
+3. **Database Administrators**: DBAs are sole custodian of entire database who are resopnsible for managing the databases, including database security, access control, backup and disaster recovery.
 4. **Application Developers**: Developers are the users who build the front-end applications.
 
 
@@ -69,7 +69,7 @@ c. **Relational Operators**: The operators that compares the conditions and to b
  > **Database Storage**: Unlike the File Storage, the data that the user intends to store must have some meaning and all the data elements should be related to one another. The search happens in this storage is Binary Search.
 
 ***
-Fragments of Database: 
+Storage fragments of Database: 
  > **Data Part**: This is the part of database where the data values are stored
  
  > **Meta Data**: This part of the database maintains the data about the data. Meta Data aka Data Dictionary or Data Catalog.  
