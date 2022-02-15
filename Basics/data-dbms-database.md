@@ -5,7 +5,7 @@
 
 ****
 
-Definitions in SQL: 
+**Definitions in SQL**: 
 
 * **Sql**: Its a query language that helps user to interact with the underlying relational database.
 * **Database**: Its a collection of logically related information organized so that it can be  accessible, managed and updated easily. In general, Databases are accessed and controlled by a DBMS.
@@ -42,12 +42,12 @@ Definitions in SQL:
 1. **End User**: The ultimate users of database who can view and access the data
 2. **Database Designers**: DBD have privilege of defining and creating the database and the users who lets DBDs or authorizes DBDs to define and create the database are called DBAs.
 3. **Database Administrators**: DBAs are sole custodian of entire database who are resopnsible for managing the databases, including database security, access control, backup and disaster recovery.
-4. **Application Developers**: Developers are the users who build the front-end applications.
+4. **Application Developers or Software Developers**: Developers are the users who build the front-end applications.
 
 
 
 ***
-1. Types of Operators: 
+1. **Types of Operators**: 
 
 a. **Arithmetic Operators**: The arithmetic operators can perform arithmetical operation on numeric operands that are involved. These are the operators that we use in the Select Clause with the attributes. Ex. +, -, *, /
 
