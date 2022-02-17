@@ -22,9 +22,9 @@
 
 > **Extents**: An extent is a logical memory unit of database storage which is the collection of data blocks. DBA can also deallocate unused extents.
 
-> **Segments**: The collection of extents.
+> **Segments**: A segment is the collection of extents that all are stored in the same tablespace.
 
-> **Table Spaces**: The collection of Segments.
+> **Table Spaces**: The collection of Segments. A table space con contain tables, indexes, large objects and long data.
 
 ***
 
