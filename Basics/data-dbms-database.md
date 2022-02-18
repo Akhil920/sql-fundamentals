@@ -17,6 +17,14 @@
 
 ***
 
+**Need of DBMS**: 
+> Database systems are basically developed for large amount of data. When dealing with huge amount of data, there are two things that require optimization: Storage of data and retrieval of data.
+    1. **Storage** : As per the Database systems principles, the data should be stored in such a manner that it takes less space and while storing, we need to ensure that there should be no duplicates/redundant data, so in order to organize and store data in one place and creating links between these data, the need of DBMS arises.
+    2. **Retrieval of Data**: Besides storing the data, DBMS also ensures that the data is retrieved as quickly as possible.
+
+***
+
+
 **Logical Structure of Database**: The data in database part of secondary memory will get structured into Blocks, Extents, Segments and Table Spaces.
 
 > **Blocks**: This is the smallest fragment or unit of the memory where the data can be stored. In contrast, at the physical, operating system level, all the data is stored in bytes.
