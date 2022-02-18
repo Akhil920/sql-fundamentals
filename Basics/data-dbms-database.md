@@ -9,6 +9,7 @@
 
 * **Sql**: Its a query language that helps user to interact with the underlying relational database.
 * **Database**: Its a collection of logically related information organized so that it can be  accessible, managed and updated easily. In general, Databases are accessed and controlled by a DBMS.
+* **DBMS**: DBMS is an acronym for DataBase Management System. DBMS is a set of programs to store and access the data in an easy and efficient manner.
 * **Information**: A processed data
 * **Data**: Raw facts and figures that has no meaning
 * **Relational Database**: This is a type of data storage method wherein the information will be stored in a series of tables that are connected through data relationships.
@@ -28,7 +29,7 @@
 
 ***
 
-**Architecture of DBMS**: DBMS has a layered architecture and there are 3 layers/levels as listed below: 
+**Architecture of DBMS**: Database management systems architecture will help us understand the components of database system and the relation among them. DBMS has a layered architecture and there are 3 layers/levels as listed below: 
 
 1. **The Physical Layer**: This is the level that is close to the database.
 
@@ -75,7 +76,3 @@ Storage fragments of Database:
  > **Meta Data**: This part of the database maintains the data about the data. Meta Data aka Data Dictionary or Data Catalog.  
 
  ***
-
-2. 
-
-***
