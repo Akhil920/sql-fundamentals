@@ -15,7 +15,7 @@ SQL Commands are broadly divided into 4 categories:
 
 ***
 
-1. **Data Definition Language**: This is a subset of SQL statements that change the structure of the database schema in some way.
+1. **Data Definition Language**: This is a subset of SQL statements that change the structure of the database schema in some way. These commands play an important role in the meta data part of the database. Moreover, while using these functions, we are required to specify the object type in the command. DDL is often referred to as auto-commit commands as well.
 
     a. ***Create Table Command***
         - Explanation: Create is a command that we use to create any Database Object.
